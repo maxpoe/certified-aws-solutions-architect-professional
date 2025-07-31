@@ -82,7 +82,7 @@
     - [CloudFront](10-caching/cloudfront.md)
     - [ElastiCache](10-caching/elasticache.md)
 11. Migrations and Extensions
-    - [The 6R's of Cloud Migrations](11-migrations/6r.md)
+    - [The 7R's of Cloud Migrations](11-migrations/7r.md)
     - [DMS - Database Migration Service](11-migrations/dms.md)
     - [VM Migrations AWS <=> On-Premises](11-migrations/vm-migration.md)
     - [Storage Gateway](11-migrations/storage-gateway.md)
